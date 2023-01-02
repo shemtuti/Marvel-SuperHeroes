@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.activity.image.ImageViewActivity" android:tag="layout/activity_image_view_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imgPhotoView"
+            android:layout_width="@dimen/layout350"
+            android:layout_height="@dimen/layout350"
+            android:scaleType="centerCrop"
+            android:src="@drawable/super_boom_image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:shapeAppearance="@style/ShapeAppearanceOverlay.Avatar" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         

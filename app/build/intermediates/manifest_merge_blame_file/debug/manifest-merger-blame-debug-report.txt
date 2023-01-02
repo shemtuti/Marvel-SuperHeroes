@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.superboom"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.superboom.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.superboom.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:7:5-50:19
+20        android:name="com.example.superboom.util.MyApplication"
+20-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:8:9-64
+21        android:allowBackup="true"
+21-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/ac54f2a1ec5c3cdaf5e8161ef2883323/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:11:9-54
+26        android:icon="@mipmap/ic_super_boom"
+26-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:12:9-45
+27        android:label="@string/app_name"
+27-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:13:9-41
+28        android:roundIcon="@mipmap/ic_super_boom_round"
+28-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:14:9-56
+29        android:supportsRtl="true"
+29-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:15:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:16:9-40
+32        android:usesCleartextTraffic="true" >
+32-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:17:9-44
+33        <activity
+33-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:20:9-33:20
+34            android:name="com.example.superboom.ui.activity.splash.SplashActivity"
+34-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:21:13-62
+35            android:exported="true"
+35-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:22:13-36
+36            android:theme="@style/AppTheme.NoActionBar" >
+36-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:23:13-56
+37            <intent-filter>
+37-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:24:13-28:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:25:17-69
+38-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:25:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:27:17-77
+40-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:27:27-74
+41            </intent-filter>
+42
+43            <meta-data
+43-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:30:13-32:36
+44                android:name="android.app.lib_name"
+44-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:31:17-52
+45                android:value="" />
+45-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:32:17-33
+46        </activity>
+47        <activity
+47-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:34:9-37:59
+48            android:name="com.example.superboom.ui.activity.main.MarvelListActivity"
+48-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:35:13-64
+49            android:exported="true"
+49-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:36:13-36
+50            android:theme="@style/AppTheme.NoActionBar" />
+50-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:37:13-56
+51        <activity
+51-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:38:9-41:50
+52            android:name="com.example.superboom.ui.activity.details.HeroDetailsActivity"
+52-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:39:13-68
+53            android:exported="true"
+53-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:40:13-36
+54            android:theme="@style/DetailsTheme" />
+54-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:41:13-48
+55        <activity
+55-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:42:9-45:50
+56            android:name="com.example.superboom.ui.activity.image.ImageViewActivity"
+56-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:43:13-64
+57            android:exported="true"
+57-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:44:13-36
+58            android:theme="@style/DetailsTheme" />
+58-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:45:13-48
+59
+60        <meta-data
+60-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:47:9-49:57
+61            android:name="preloaded_fonts"
+61-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:48:13-43
+62            android:resource="@array/preloaded_fonts" />
+62-->/Users/shem2t/Documents/School/My Projects/Boom/Super Boom App/app/src/main/AndroidManifest.xml:49:13-54
+63
+64        <provider
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+65            android:name="androidx.startup.InitializationProvider"
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+66            android:authorities="com.example.superboom.androidx-startup"
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+67            android:exported="false" >
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+68            <meta-data
+68-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+69-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+70                android:value="androidx.startup" />
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/5bdd66f6eec58c0decb9d08b49887e20/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51c4cb106a17f15668a578f84989abce/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51c4cb106a17f15668a578f84989abce/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+73                android:value="androidx.startup" />
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/shem2t/Downloads/Marvel-Favorite-Hero-App-master/gradle/wrapper/caches/transforms-3/51c4cb106a17f15668a578f84989abce/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+74        </provider>
+75    </application>
+76
+77</manifest>

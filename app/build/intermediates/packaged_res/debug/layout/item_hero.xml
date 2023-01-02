@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:elevation="@dimen/elev8"
+    android:layout_marginLeft="@dimen/margin8"
+    android:layout_marginRight="@dimen/margin8"
+    android:layout_marginTop="@dimen/margin5"
+    app:cardCornerRadius="@dimen/radius">
+
+    <LinearLayout
+        android:id="@+id/lnHero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvCharacterName"
+                style="@style/TextStyle"
+                android:textStyle="bold"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textSize="@dimen/text18"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imgCharacterThumbnail"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@tools:sample/full_names" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/imgCharacterThumbnail"
+                android:layout_width="@dimen/layout60"
+                android:layout_height="@dimen/layout60"
+                android:layout_margin="@dimen/margin3"
+                android:scaleType="centerCrop"
+                app:shapeAppearance="@style/ShapeAppearanceOverlay.Avatar"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:background="@tools:sample/avatars" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvCharacterDescription"
+                style="@style/TextStyle"
+                android:layout_marginTop="0dp"
+                android:textSize="@dimen/text14"
+                android:maxLines="1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/imgCharacterThumbnail"
+                app:layout_constraintTop_toBottomOf="@id/tvCharacterName"
+                tools:text="@tools:sample/full_names" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/one_dp"
+            android:layout_marginTop="@dimen/four_dp"
+            android:background="@android:color/darker_gray" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

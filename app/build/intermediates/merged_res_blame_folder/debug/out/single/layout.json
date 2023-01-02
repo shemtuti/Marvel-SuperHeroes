@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.superboom.app-mergeDebugResources-4:/layout/activity_marvel_list.xml",
+        "source": "com.example.superboom.app-main-7:/layout/activity_marvel_list.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-mergeDebugResources-4:/layout/activity_image_view.xml",
+        "source": "com.example.superboom.app-main-7:/layout/activity_image_view.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-mergeDebugResources-4:/layout/activity_hero_details.xml",
+        "source": "com.example.superboom.app-main-7:/layout/activity_hero_details.xml"
+    }
+]

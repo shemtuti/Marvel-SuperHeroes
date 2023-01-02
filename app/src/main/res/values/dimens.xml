@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="pad_2">2dp</dimen>
+    <dimen name="pad_8">8dp</dimen>
+    <dimen name="pad_10">10dp</dimen>
+    <item name="spacing" type="dimen" format="float">1.2</item>
+    <dimen name="btnText">16sp</dimen>
+    <dimen name="text14">14sp</dimen>
+    <dimen name="text18">18sp</dimen>
+    <dimen name="text20">20sp</dimen>
+    <dimen name="text25">25sp</dimen>
+    <dimen name="text28">28sp</dimen>
+    <dimen name="text30">30sp</dimen>
+    <dimen name="margin3">3dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="elev8">8dp</dimen>
+    <dimen name="radius">6dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="layout60">60dp</dimen>
+    <dimen name="layout200">200dp</dimen>
+    <dimen name="layout250">250dp</dimen>
+    <dimen name="layout350">350dp</dimen>
+
+
+</resources>

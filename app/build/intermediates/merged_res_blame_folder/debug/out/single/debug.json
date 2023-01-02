@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-hdpi_ic_super_boom.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-hdpi/ic_super_boom.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/layout_activity_image_view.xml.flat",
+        "source": "com.example.superboom.app-main-7:/layout/activity_image_view.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/layout_activity_splash.xml.flat",
+        "source": "com.example.superboom.app-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxhdpi_ic_super_boom_foreground.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxhdpi/ic_super_boom_foreground.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.superboom.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xhdpi_ic_super_boom_round.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xhdpi/ic_super_boom_round.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-anydpi-v26_ic_super_boom.xml.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-anydpi-v26/ic_super_boom.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/layout_item_hero.xml.flat",
+        "source": "com.example.superboom.app-main-7:/layout/item_hero.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable_loading_animation.xml.flat",
+        "source": "com.example.superboom.app-main-7:/drawable/loading_animation.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/font_bowlby_one_sc.xml.flat",
+        "source": "com.example.superboom.app-main-7:/font/bowlby_one_sc.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxhdpi_ic_super_boom_round.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxhdpi/ic_super_boom_round.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxxhdpi_ic_super_boom_foreground.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxxhdpi/ic_super_boom_foreground.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/font_marvel.xml.flat",
+        "source": "com.example.superboom.app-main-7:/font/marvel.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/font_black_han_sans.xml.flat",
+        "source": "com.example.superboom.app-main-7:/font/black_han_sans.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/layout_activity_hero_details.xml.flat",
+        "source": "com.example.superboom.app-main-7:/layout/activity_hero_details.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xhdpi_ic_super_boom_foreground.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xhdpi/ic_super_boom_foreground.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable_super_boom_image.png.flat",
+        "source": "com.example.superboom.app-main-7:/drawable/super_boom_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-anydpi-v26_ic_super_boom_round.xml.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-anydpi-v26/ic_super_boom_round.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-hdpi_ic_super_boom_round.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-hdpi/ic_super_boom_round.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxhdpi_ic_super_boom.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxhdpi/ic_super_boom.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_loading_img.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/loading_img.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_ic_boom_pic_background.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/ic_boom_pic_background.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/layout_activity_marvel_list.xml.flat",
+        "source": "com.example.superboom.app-main-7:/layout/activity_marvel_list.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxxhdpi_ic_super_boom.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxxhdpi/ic_super_boom.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xhdpi_ic_super_boom.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xhdpi/ic_super_boom.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.superboom.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-ldpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-ldpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-mdpi_ic_super_boom_foreground.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-mdpi/ic_super_boom_foreground.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-hdpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-hdpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-mdpi_ic_super_boom.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-mdpi/ic_super_boom.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xxxhdpi_ic_super_boom_round.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-xxxhdpi/ic_super_boom_round.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_ic_broken_image.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/ic_broken_image.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/font_marvel_bold.xml.flat",
+        "source": "com.example.superboom.app-main-7:/font/marvel_bold.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-hdpi_ic_super_boom_foreground.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-hdpi/ic_super_boom_foreground.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superboom.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_ic_baseline_arrow_back_black.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/ic_baseline_arrow_back_black.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxhdpi_ic_broken_image.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxhdpi/ic_broken_image.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_ic_baseline_arrow_back_black.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/ic_baseline_arrow_back_black.xml"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_ic_boom_pic_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/ic_boom_pic_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/mipmap-mdpi_ic_super_boom_round.png.flat",
+        "source": "com.example.superboom.app-debug-6:/mipmap-mdpi/ic_super_boom_round.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xxxhdpi_loading_img.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xxxhdpi/loading_img.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-xhdpi_ic_boom_image_background.png.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-xhdpi/ic_boom_image_background.png"
+    },
+    {
+        "merged": "com.example.superboom.app-merged_res-5:/drawable-anydpi-v21_ic_boom_image_background.xml.flat",
+        "source": "com.example.superboom.app-pngs-0:/drawable-anydpi-v21/ic_boom_image_background.xml"
+    }
+]

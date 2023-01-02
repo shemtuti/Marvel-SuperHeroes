@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.activity.details.HeroDetailsActivity">
+
+        <ProgressBar
+            android:visibility="gone"
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/tvLoading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:padding="@dimen/four_dp"
+            android:layout_marginTop="@dimen/margin5"
+            android:text="@string/loading"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text20"
+            app:layout_constraintTop_toBottomOf="@+id/progressBar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imgPhotoDetails"
+            android:layout_width="@dimen/layout250"
+            android:layout_height="@dimen/layout250"
+            android:layout_marginTop="@dimen/margin20"
+            android:src="@drawable/super_boom_image"
+            android:scaleType="centerCrop"
+            app:shapeAppearance="@style/ShapeAppearanceOverlay.Avatar"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+            android:id="@+id/tvHeroDetails"
+            style="@style/TextStyle"
+            android:textAlignment="viewStart"
+            android:layout_marginRight="@dimen/margin30"
+            android:layout_marginLeft="@dimen/margin30"
+            android:layout_marginTop="@dimen/margin20"
+            android:textSize="@dimen/text18"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imgPhotoDetails" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
